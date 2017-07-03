@@ -1,3 +1,4 @@
+. .\02-InvokeLambda.ps1
 Describe "Check the Values Returned from the Invoke-BookAPI Function" {
 
 
